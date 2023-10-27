@@ -27,4 +27,5 @@ Designed by [**Fusion 360**](https://www.autodesk.com.cn/products/fusion-360/ove
 ### 补充
 ```
 1.推力轴承可以使用垫片替代，降低成本
+2.气泵电机采用PWM的方式驱动  
 ```
